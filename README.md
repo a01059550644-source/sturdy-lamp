@@ -1,4 +1,6 @@
 
+https://github.com/a01059550644-source/sturdy-lamp/blob/main/README.md
+
 본 문서는 리눅스 환경에서 프로세스를 확인하고 제어하는 핵심 명령어인 `top`, `ps`, `jobs`, `kill`에 대해 정리한 과제입니다.
 
 ---
